@@ -1,0 +1,18 @@
+UAT 
+
+UAT Property based for Oracle and PostgreSQL
+UAT Oracle and UAT PostgreSQL, switch, UAT mirror PROD
+
+Double Write PostgreSQL back to Oracle
+
+UAT test , version mis-match
+
+BAT file for Oracle, BAT File for PostgreSQL
+
+Test incremental , daily table hit
+
+Requirement : Double Write Double Read , switch back from PostgreSQL to Oracle, 
+Realtime Update, Nightly Data Sync P back to O
+
+Functional Test List pf procedure
+User Test List of common/all usage
